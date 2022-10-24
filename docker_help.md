@@ -1,0 +1,1 @@
+docker exec fruit_web_1 python manage.py migrate
