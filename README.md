@@ -1,0 +1,1 @@
+Django app for cafe and meals memories.
